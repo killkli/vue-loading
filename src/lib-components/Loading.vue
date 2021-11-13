@@ -19,6 +19,7 @@
 </template>
 
 <script>
+
 export default {
   name: "VueLoading",
   data() {
@@ -67,4 +68,7 @@ export default {
   position: absolute;
   opacity: 1;
 }
+
+
+
 </style>
